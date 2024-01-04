@@ -1,12 +1,12 @@
-## Hello world👋
+## About me
 
-`Web-developer` & `Educational courses seminarist`
+`Python/js-developer` & `Educational courses seminarist`
 
 ### Fast connect
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vladimirviktorovicha)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/c0rbandallas)
-
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvvvvvvvvv@inbox.ru)
 
 ### General hard skills
 
