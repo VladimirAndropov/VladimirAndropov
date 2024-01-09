@@ -1,6 +1,6 @@
 ## About me
 
-`Python/js-developer` & `Educational courses seminarist`
+`Python/js-developer` & `Educational courses moderator`
 
 ### Fast connect
 
