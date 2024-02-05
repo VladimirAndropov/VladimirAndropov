@@ -11,6 +11,7 @@ OS:
 - OS2 [Yabloko](https://github.com/VladimirAndropov/fa-os-practice-yabloko)<br>
 - ~~OS3 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/fa-os-practice-risc-V)~~<br>
 - OS4 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/xv6-riscv)
+- OS5 [Parcing from site with Python](https://github.com/VladimirAndropov/tender-parser)
 
 HPC:
 - HPC1 [Высокопроизводительные вычисления](https://github.com/VladimirAndropov/fa-hpc-practice)<br>
