@@ -9,7 +9,8 @@ CA:
 OS:
 - OS1 [Сетевые системы и приложения ](https://github.com/VladimirAndropov/fa-os-practice)<br>
 - OS2 [Yabloko](https://github.com/VladimirAndropov/fa-os-practice-yabloko)<br>
-- OS3 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/fa-os-practice-risc-V)<br>
+- ~~OS3 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/fa-os-practice-risc-V)~~<br>
+- OS4 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/xv6-riscv)
 
 HPC:
 - HPC1 [Высокопроизводительные вычисления](https://github.com/VladimirAndropov/fa-hpc-practice)<br>
