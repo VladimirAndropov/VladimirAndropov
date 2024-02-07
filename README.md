@@ -7,7 +7,7 @@ CA:
 - CA2 [Архитектура компьютерных систем (x86) ](https://github.com/VladimirAndropov/fa-ca-practice-asm-x86)<br>
 
 OS:
-- OS1 [Сетевые системы и приложения ](https://github.com/VladimirAndropov/fa-os-practice)<br>
+- OS1 [Сетевые системы и приложения *1 семест Операционные системы*](https://github.com/VladimirAndropov/fa-os-practice)<br>
 - OS2 [Yabloko](https://github.com/VladimirAndropov/fa-os-practice-yabloko)<br>
 - ~~OS3 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/fa-os-practice-risc-V)~~<br>
 - OS4 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/xv6-riscv)
