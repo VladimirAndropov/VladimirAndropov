@@ -13,6 +13,9 @@ OS:
 - OS4 [A simple OS running on RISC-V for education](https://github.com/VladimirAndropov/xv6-riscv)
 - OS5 [Parcing from site with Python](https://github.com/VladimirAndropov/tender-parser)
 
+NP:
+- NP1 [Сетевые системы и приложения *2 семестр Сетевые приложения* ](https://github.com/VladimirAndropov/fa-np-practice)
+
 HPC:
 - HPC1 [Высокопроизводительные вычисления](https://github.com/VladimirAndropov/fa-hpc-practice)<br>
 - HPC2 [Nvidia examples CUDA](https://github.com/VladimirAndropov/nvidia-openacc-course-sources)<br>
